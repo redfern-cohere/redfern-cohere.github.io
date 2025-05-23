@@ -1,0 +1,3 @@
+# Allow .well-known and its contents
+!.well-known/
+!.well-known/mta-sts.txt
