@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: coheretech-com01e.mail.protection.outlook.com
+max_age: 14400
